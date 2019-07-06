@@ -20,5 +20,5 @@ Linux &amp; Docker
 关于我   
 Stefan 重庆邮电大学 研二学生 QQ邮箱：1281646815@qq.com   
 2019.7   
-[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)   
+
 
