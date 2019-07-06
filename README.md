@@ -15,7 +15,7 @@ Linux &amp; Docker
 大数据技术   
 人工智能   
 脚本语言   
-另外，如果想看文章列表，点击这里跳转到Issues查看   
+另外，如果想看文章列表，[点击这里跳转到Issues]查看(https://github.com/stefan-tao/Blog-tao/issues)   
 
 关于我   
 Stefan 重庆邮电大学 研二学生 QQ邮箱：1281646815@qq.com   
