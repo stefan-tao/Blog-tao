@@ -2,4 +2,7 @@
 给README.md插入链接： [Text](URL)
 
 github远程库同步到本地：git pull origin master
-
+本地同步到github远程：
+git add .
+git commit -m "modify"
+git push origin master
