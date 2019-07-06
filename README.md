@@ -16,6 +16,6 @@ Linux &amp; Docker
 另外，如果想看文章列表，点击这里跳转到Issues查看   
 
 关于我   
-Stefan 重庆邮电大学 研二学生   
+Stefan 重庆邮电大学 研二学生 QQ邮箱：1281646815@qq.com   
 2019.7   
 
