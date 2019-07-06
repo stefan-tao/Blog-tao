@@ -4,17 +4,17 @@
 
 博客主要划分为下面几大类别，可以点击进入:
 
-C++   
-Java Web   
-分布式架构   
-数据库   
-开发工具   
-客户端Apps   
-读书笔记   
-Linux &amp; Docker   
-大数据技术   
-人工智能   
-脚本语言   
+[C++](https://github.com/stefan-tao/Blog-tao/projects/2)   
+[Java Web](https://github.com/stefan-tao/Blog-tao/projects/3)   
+[分布式架构](https://github.com/stefan-tao/Blog-tao/projects/1)   
+[数据库](https://github.com/stefan-tao/Blog-tao/projects/4)   
+[开发工具](https://github.com/stefan-tao/Blog-tao/projects/5)   
+[客户端Apps](https://github.com/stefan-tao/Blog-tao/projects/6)   
+[读书笔记](https://github.com/stefan-tao/Blog-tao/projects/7)   
+[Linux &amp; Docker](https://github.com/stefan-tao/Blog-tao/projects/8)   
+[大数据技术](https://github.com/stefan-tao/Blog-tao/projects/9)   
+[人工智能](https://github.com/stefan-tao/Blog-tao/projects/10)   
+[脚本语言](https://github.com/stefan-tao/Blog-tao/projects/11)   
 另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/stefan-tao/Blog-tao/issues)   
 
 关于我   
