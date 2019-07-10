@@ -14,7 +14,7 @@
 [Linux &amp; Docker](https://github.com/stefan-tao/Blog-tao/projects/8)   
 [大数据技术](https://github.com/stefan-tao/Blog-tao/projects/9)   
 [深度学习](https://github.com/stefan-tao/Blog-tao/projects/10)   
-[脚本语言](https://github.com/stefan-tao/Blog-tao/projects/11) 
+[脚本语言](https://github.com/stefan-tao/Blog-tao/projects/11)    
 [图像处理](https://github.com/stefan-tao/Blog-tao/projects/12)   
 另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/stefan-tao/Blog-tao/issues)   
 
