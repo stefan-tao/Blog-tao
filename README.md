@@ -1,4 +1,4 @@
-# Blog-tao
+# Blog-tao主页
 个性签名：I like men who have a future and women who have a past~   
 最喜欢的歌手：   
 最喜欢的主持人：董卿、张泽群   
@@ -6,7 +6,7 @@
 最喜欢的记者：柴静   
 婚姻状态：待嫁   
 
-博客分类   
+#博客分类   
 
 博客主要划分为下面几大类别，可以点击进入:
 
