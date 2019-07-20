@@ -1,14 +1,8 @@
-# Blog-tao主页
-个性签名：I like men who have a future and women who have a past~   
-最喜欢的歌手：   
-最喜欢的主持人：董卿、张泽群   
-最喜欢的演员：濮存昕   
-最喜欢的记者：柴静   
-婚姻状态：待嫁   
+# Blog-tao[主页](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
 
 #博客分类   
 
-博客主要划分为下面几大类别，可以点击进入:
+本博客主要划分为下面几大类别，可以点击进入:
 
 [分布式架构](https://github.com/stefan-tao/Blog-tao/projects/1)  
 [C++](https://github.com/stefan-tao/Blog-tao/projects/2)   
