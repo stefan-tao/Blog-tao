@@ -1,6 +1,6 @@
-# Blog-tao[主页](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
+# [Blog-tao主页](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
 
-#博客分类   
+# 博客分类   
 
 本博客主要划分为下面几大类别，可以点击进入:
 
