@@ -1,27 +1,28 @@
-# [Blog-tao主页](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
+# [Blog-tao/homepage](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
 
-## 博客分类   
+## Blog catalogue  
 
 本博客主要划分为下面几大类别，可以点击进入:
 
-[分布式架构](https://github.com/stefan-tao/Blog-tao/projects/1)  
+[Distributed architecture](https://github.com/stefan-tao/Blog-tao/projects/1)  
 [C++](https://github.com/stefan-tao/Blog-tao/projects/2)   
 [Java Web](https://github.com/stefan-tao/Blog-tao/projects/3)   
-[数据库](https://github.com/stefan-tao/Blog-tao/projects/4)   
-[开发工具](https://github.com/stefan-tao/Blog-tao/projects/5)   
-[客户端Apps](https://github.com/stefan-tao/Blog-tao/projects/6)   
-[读书笔记](https://github.com/stefan-tao/Blog-tao/projects/7)   
+[SQL](https://github.com/stefan-tao/Blog-tao/projects/4)   
+[Devolopment Softwares&tools](https://github.com/stefan-tao/Blog-tao/projects/5)   
+[Android](https://github.com/stefan-tao/Blog-tao/projects/6)   
+[Notes](https://github.com/stefan-tao/Blog-tao/projects/7)   
 [Linux &amp; Docker](https://github.com/stefan-tao/Blog-tao/projects/8)   
-[大数据技术](https://github.com/stefan-tao/Blog-tao/projects/9)   
-[深度学习](https://github.com/stefan-tao/Blog-tao/projects/10)   
-[脚本语言](https://github.com/stefan-tao/Blog-tao/projects/11)    
-[图像处理](https://github.com/stefan-tao/Blog-tao/projects/12)   
-[剑指Offer](https://github.com/stefan-tao/Blog-tao/projects/13)   
-[github的Markdown编辑](https://help.github.com/en/categories/writing-on-github)   
+[Big Data](https://github.com/stefan-tao/Blog-tao/projects/9)   
+[Deep learning](https://github.com/stefan-tao/Blog-tao/projects/10)   
+[Scripting language](https://github.com/stefan-tao/Blog-tao/projects/11)    
+[Image Processing](https://github.com/stefan-tao/Blog-tao/projects/12)   
+[Algorithm column](https://github.com/stefan-tao/Blog-tao/projects/13)   
+[Markdown](https://help.github.com/en/categories/writing-on-github)   
 另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/stefan-tao/Blog-tao/issues)   
 
-关于我   
-Stefan 重庆邮电大学 研二学生 QQ邮箱：1281646815@qq.com   
+About the writer:      
+Stefan   
+Email：1281646815@qq.com   
 2019.7   
 
 
