@@ -1,8 +1,8 @@
 # [Blog-tao/homepage](https://github.com/stefan-tao/Blog-tao/wiki/Home-page)
 
-## Blog catalogue  
+## Blog Catalogue  
 
-本博客主要划分为下面几大类别，可以点击进入:
+This blog is divided into several parts below:
 
 [Distributed architecture](https://github.com/stefan-tao/Blog-tao/projects/1)  
 [C++](https://github.com/stefan-tao/Blog-tao/projects/2)   
