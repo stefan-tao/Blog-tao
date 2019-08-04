@@ -7,7 +7,7 @@ This blog is divided into several parts below:
 [Distributed architecture](https://github.com/stefan-tao/Blog-tao/projects/1)  
 [C++](https://github.com/stefan-tao/Blog-tao/projects/2)   
 [Java Web](https://github.com/stefan-tao/Blog-tao/projects/3)   
-[SQL](https://github.com/stefan-tao/Blog-tao/projects/4)   
+[Database](https://github.com/stefan-tao/Blog-tao/projects/4)   
 [Devolopment Softwares&tools](https://github.com/stefan-tao/Blog-tao/projects/5)   
 [Android](https://github.com/stefan-tao/Blog-tao/projects/6)   
 [Notes](https://github.com/stefan-tao/Blog-tao/projects/7)   
