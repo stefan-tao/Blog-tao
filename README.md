@@ -18,7 +18,7 @@ This blog is divided into several parts below:
 [Image Processing](https://github.com/stefan-tao/Blog-tao/projects/12)   
 [Algorithm column](https://github.com/stefan-tao/Blog-tao/projects/13)   
 [Markdown](https://help.github.com/en/categories/writing-on-github)   
-另外，如果想看文章列表，[点击这里跳转到Issues查看](https://github.com/stefan-tao/Blog-tao/issues)   
+
 
 About the writer:      
 Stefan   
